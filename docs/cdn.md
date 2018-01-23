@@ -1,5 +1,5 @@
 # CDN
-
+how  r u
 Recommended: [unpkg](//unpkg.com), which will reflect the latest version as soon as it is published to npm. You can also browse the source of the npm package at [unpkg.com/docsify/](//unpkg.com/docsify/).
 
 ## Latest version
